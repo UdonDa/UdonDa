@@ -1,4 +1,4 @@
-I'm a final-year PhD student at the University of Tokyo, Japan. Currently, I'm working on **Computer Vision for Content Creation**. I'd like to enhance our creativity using Generative AI.
+I'm a final-year PhD student at the University of Tokyo, Japan. I'm expected to accomplish my PhD journey in March 2025. Currently, I'm working on **Computer Vision for Content Creation**. I'd like to enhance our creativity using Generative AI.
 
 ## News
 **[Mar 2024]** **I'm on the Job Market.** Please see [CV](https://drive.google.com/file/d/1UO7Fd857VLzScBxP77vPq4G7ReQtb_Xz/view).  
